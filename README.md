@@ -1,1 +1,1 @@
-I just like computers and tech in general
+I just like computers
