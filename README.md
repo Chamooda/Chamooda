@@ -1,5 +1,5 @@
 I just like computers
-```
+```javascript
 import React, { useState } from 'react';
 
 function VideoUpload() {
