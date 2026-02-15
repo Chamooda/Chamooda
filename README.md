@@ -1,6 +1,4 @@
-# Asad Hadi
-
-Robotics & Computer Vision Engineer  
+#Robotics & Computer Vision Engineer  
 Building perception systems for autonomous robots.
 
 ---
