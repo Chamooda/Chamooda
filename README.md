@@ -5,10 +5,10 @@ Building perception systems for autonomous robots.
 
 ## What I Build
 
-- Multi-camera coordinate mapping  
-- State estimation & filtering (Kalman-based pipelines)  
-- Real-time object detection + tracking  
-- Lightweight ML systems for constrained hardware  
+- Real-time object detection + tracking   
+- State estimation & filtering
+- Lightweight ML systems
+- Generative Deep Learning models for enhancing perception
 
 ---
 
