@@ -1,7 +1,7 @@
+![AUV cam](https://github.com/user-attachments/assets/c7fadda9-3740-4bf0-91fb-9ab0aba05252)
+
 # Robotics & Computer Vision Engineer  
 Building perception systems for autonomous robots.
-
----
 
 ## What I Build
 
